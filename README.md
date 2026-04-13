@@ -1,4 +1,4 @@
-## CSV to MySQL data migration tool
+## CSV to MySQL Data Migration Tool
 
 A Java application that converts CSV files into runnable MySQL scripts.
 
