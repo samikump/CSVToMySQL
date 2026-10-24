@@ -22,3 +22,8 @@ This application makes runnable MySQL scripts for data insertion, including data
 I tested the application using two datasets from *avoindata.fi*. Both of them were converted smoothly.
 <br />
 Even the one with more than a million rows was converted in a few minutes and running the resulting SQL script also only takes a few minutes.
+
+### 🚀 How to run it
+*   Open the project in NetBeans (or your preferred IDE).
+*   Clean and Build the project using Maven.
+*   Run the `Launcher` class to start the migration tool.
